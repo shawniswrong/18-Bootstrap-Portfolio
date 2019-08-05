@@ -1,0 +1,35 @@
+.navbar {
+  background-color: white !important;
+}
+.navbar img {
+
+}
+.navbar-nav a {
+  color: black !important;
+}
+.customJumbotron {
+  background-image: url("../images/jumbotron1.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.display-4 {
+  font-family: "Permanent Marker", cursive;
+  color: white;
+}
+.lead {
+  color: white;
+  font-family: "Raleway";
+}
+.jumboContainer {
+  padding: 120px;
+}
+.ctabutton {
+  background-color: #0059FF;
+}
+.sectionBreak {
+  display: inline-block;
+  text-align: center;
+  justify-content: center;
+}
